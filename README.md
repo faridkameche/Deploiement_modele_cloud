@@ -1,4 +1,4 @@
-# Deploiement_modele_cloud
+# Déploiement d'un modèle dans le cloud
 
 Etude de faisabilité portant sur la reconnaissance d'images de fruits et légumes avec le modèle MobileNetV2 rédigé en PySpark.
 
